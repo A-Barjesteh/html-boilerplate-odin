@@ -1,6 +1,8 @@
 .unordered.list {
-  color:blue
+  color:blue;
+  font-family: sans-serif;
 }
 .unordered.list .mid.list {
-  color:peru
+  color:peru;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

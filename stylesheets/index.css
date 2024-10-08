@@ -1,3 +1,6 @@
 .unordered.list {
   color:blue
 }
+.unordered.list .mid.list {
+  color:peru
+}
